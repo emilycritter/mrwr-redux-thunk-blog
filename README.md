@@ -11,4 +11,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ## Topics
-* Redux (actions, reducers, connect function)
+* Redux
+  * actions
+    * synchronous action creators
+    * asynchronous action creators
+      * middleware (using React Thunk)
+  * reducers
+  * connect function
+
+![Image of Redux Cycle](redux-cycle.png)
