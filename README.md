@@ -1,6 +1,6 @@
 # Modern React with Redux Tutorial: Blog App (covering Redux and Redux Thunk)
 - [Udemy Course](https://www.udemy.com/course/react-redux/)
-- Course Section: 18
+- Course Sections: 18-19
 
 
 ## Getting Started with Create React App
